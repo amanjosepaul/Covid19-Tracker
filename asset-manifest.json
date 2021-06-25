@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Covid19-Tracker/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Covid19-Tracker/static/js/main.86db91e4.chunk.js",
+    "main.js.map": "/Covid19-Tracker/static/js/main.86db91e4.chunk.js.map",
+    "runtime-main.js": "/Covid19-Tracker/static/js/runtime-main.bd7bf35d.js",
+    "runtime-main.js.map": "/Covid19-Tracker/static/js/runtime-main.bd7bf35d.js.map",
+    "static/js/2.60ca682d.chunk.js": "/Covid19-Tracker/static/js/2.60ca682d.chunk.js",
+    "static/js/2.60ca682d.chunk.js.map": "/Covid19-Tracker/static/js/2.60ca682d.chunk.js.map",
+    "index.html": "/Covid19-Tracker/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Covid19-Tracker/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.60ca682d.chunk.js.LICENSE.txt": "/Covid19-Tracker/static/js/2.60ca682d.chunk.js.LICENSE.txt",
+    "static/media/India.12fc2e4f.jpg": "/Covid19-Tracker/static/media/India.12fc2e4f.jpg",
+    "static/media/Totaldeath.12ffd843.jpeg": "/Covid19-Tracker/static/media/Totaldeath.12ffd843.jpeg",
+    "static/media/TotallRecover.d5444f16.jpeg": "/Covid19-Tracker/static/media/TotallRecover.d5444f16.jpeg",
+    "static/media/covid19-2.ea8e8fe2.jpeg": "/Covid19-Tracker/static/media/covid19-2.ea8e8fe2.jpeg",
+    "static/media/covid19.0def3b06.jpeg": "/Covid19-Tracker/static/media/covid19.0def3b06.jpeg",
+    "static/media/covidupdate.f95886ae.jpeg": "/Covid19-Tracker/static/media/covidupdate.f95886ae.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd7bf35d.js",
+    "static/js/2.60ca682d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.86db91e4.chunk.js"
+  ]
+}
